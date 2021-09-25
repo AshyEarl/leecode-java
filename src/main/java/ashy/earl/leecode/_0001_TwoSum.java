@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 // https://leetcode.com/problems/two-sum/
-public class _00001_TwoSum implements MyTest {
+public class _0001_TwoSum implements MyTest {
     @Override
     public void test() {
         int[] nums = new int[]{2, 7, 11, 15};

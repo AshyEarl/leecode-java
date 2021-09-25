@@ -1,7 +1,7 @@
 package ashy.earl.leecode;
 
 // https://leetcode.com/problems/add-two-numbers/
-public class _00002_AddTwoNumbers implements MyTest {
+public class _0002_AddTwoNumbers implements MyTest {
     @Override
     public void test() {
 //        ListNode l1 = makeNodes(2, 4, 3);
